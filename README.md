@@ -115,6 +115,15 @@ Philosophy: "Bridging mathematical rigor, intelligence, and interactive 3D visua
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabareesh-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 
+  <br/><br/>
+
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sabareesh-06/Sabareesh-06/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sabareesh-06/Sabareesh-06/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sabareesh-06/Sabareesh-06/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
 </div>
 
 <br/>
