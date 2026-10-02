@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 ```yaml
 Name: B Sabareesh raja
@@ -39,20 +39,20 @@ Current Exploration: Lattice-based Cryptography, zk-SNARKs/STARKs & WebGPU Shade
 Philosophy: "Bridging mathematical rigor, intelligence, and interactive 3D visuals"
 ```
 
-- 🎓 **Student** passionate about deep-tech systems, cryptographic primitives, and modern computing.
-- 🔐 **Cryptography & Privacy**: Researching **Post-Quantum Cryptography (PQC)** and implementing **Zero-Knowledge Proofs (ZKP)** (zk-SNARKs & zk-STARKs) for verifiable computation.
-- 🤖 **LLMs & AI**: Exploring prompt reasoning, context pipelines, and autonomous agent architectures.
-- 🌐 **3D Web Development**: Engineering real-time interactive 3D experiences with **Three.js**, **React Three Fiber (R3F)**, **WebGL**, and **WebGPU**.
-- 🔭 **Featured Work**: [Zero-knowledge--proofing](https://github.com/Sabareesh-06/Zero-knowledge--proofing) — Practical implementation and exploration of ZKPs in Python.
-- 💬 **Ask me about**: Modern cryptography, ZK circuits, Three.js shaders, or full-stack architecture!
+- **Student** passionate about deep-tech systems, cryptographic primitives, and modern computing.
+- **Cryptography & Privacy**: Researching **Post-Quantum Cryptography (PQC)** and implementing **Zero-Knowledge Proofs (ZKP)** (zk-SNARKs & zk-STARKs) for verifiable computation.
+- **LLMs & AI**: Exploring prompt reasoning, context pipelines, and autonomous agent architectures.
+- **3D Web Development**: Engineering real-time interactive 3D experiences with **Three.js**, **React Three Fiber (R3F)**, **WebGL**, and **WebGPU**.
+- **Featured Work**: [Zero-knowledge--proofing](https://github.com/Sabareesh-06/Zero-knowledge--proofing) — Practical implementation and exploration of ZKPs in Python.
+- **Ask me about**: Modern cryptography, ZK circuits, Three.js shaders, or full-stack architecture!
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
 
-#### 🔐 Cryptography & Systems
+#### Cryptography & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=python,rust,cpp,c,go,solidity,wasm" alt="Crypto Tech" />
 </p>
@@ -62,7 +62,7 @@ Philosophy: "Bridging mathematical rigor, intelligence, and interactive 3D visua
   <img src="https://img.shields.io/badge/Libs-Circom%20%7C%20SnarkJS%20%7C%20liboqs-4361EE?style=flat-square"/>
 </p>
 
-#### 🤖 AI & Machine Learning
+#### AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,fastapi" alt="AI Tech" />
 </p>
@@ -71,7 +71,7 @@ Philosophy: "Bridging mathematical rigor, intelligence, and interactive 3D visua
   <img src="https://img.shields.io/badge/Ecosystem-HuggingFace%20%7C%20LangChain-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
 
-#### 🎨 3D & Web Engineering
+#### 3D & Web Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=threejs,react,ts,js,nextjs,tailwind,html,css" alt="3D Web Tech" />
 </p>
@@ -81,7 +81,7 @@ Philosophy: "Bridging mathematical rigor, intelligence, and interactive 3D visua
   <img src="https://img.shields.io/badge/Assets-Blender%20%7C%20glTF-EA7600?style=flat-square&logo=blender&logoColor=white"/>
 </p>
 
-#### 🧰 Dev & Infrastructure
+#### Dev & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,bash" alt="Dev Tools" />
 </p>
@@ -90,7 +90,7 @@ Philosophy: "Bridging mathematical rigor, intelligence, and interactive 3D visua
 
 ---
 
-### 🌟 Featured Repositories
+### Featured Repositories
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :---: |
@@ -101,7 +101,7 @@ Philosophy: "Bridging mathematical rigor, intelligence, and interactive 3D visua
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### GitHub Activity & Analytics
 
 <div align="center">
 
