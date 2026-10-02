@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Header Banner using Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=220&section=header&text=B%20Sabareesh%20raja&fontSize=42&fontAlignY=38&desc=Cryptography%20(PQC%20%26%20ZKP)%20%7C%20LLMs%20%7C%203D%20Web%20Dev&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=220&section=header&text=B%20Sabareesh%20raja&fontSize=42&fontAlignY=38&desc=Cryptography%20(PQC%20%2B%20ZKP)%20%7C%20LLMs%20%7C%203D%20Web%20Dev&descAlignY=62&descAlign=50" width="100%"/>
 
   <!-- Typing SVG for interactive rotating titles -->
   <a href="https://git.io/typing-svg">
